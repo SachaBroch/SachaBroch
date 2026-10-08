@@ -2,7 +2,7 @@
 
 ![Bannière](assets/banner.svg)
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=Salut%2C+moi+c%27est+Sacha;%C3%89tudiant+en+BTS+SIO+%C3%A0+Angers;Web%2C+jeux+vid%C3%A9o%2C+un+peu+d%27%C3%A9lectronique;Je+cherche+une+alternance+ou+un+stage)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=Salut%2C+moi+c%27est+Sacha;%C3%89tudiant+en+BTS+SIO+%C3%A0+Angers;Web%2C+jeux+vid%C3%A9o%2C+et+un+peu+d%27%C3%A9lectronique;Actuellemen+en+alternance)
 
 ![BTS SIO](https://img.shields.io/badge/BTS_SIO-1%C3%A8re_ann%C3%A9e-00ff9c?style=for-the-badge&labelColor=0d1117)
 ![Recherche](https://img.shields.io/badge/recherche-alternance_%2F_stage-ffbd2e?style=for-the-badge&labelColor=0d1117)
